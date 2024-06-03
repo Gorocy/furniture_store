@@ -1,0 +1,3 @@
+[submodule "furniture_store_front"]
+	path = furniture_store_front
+	url = git@github.com:Gorocy/furniture_store_front.git
