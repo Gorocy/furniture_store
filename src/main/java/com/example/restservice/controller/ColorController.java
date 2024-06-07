@@ -11,7 +11,7 @@ import com.example.restservice.model.Color;
 import com.example.restservice.repository.ColorRepository;
 
 @Controller
-@RequestMapping(path="/color")
+@RequestMapping(path="api/v1/color")
 public class ColorController {
 
     @Autowired
